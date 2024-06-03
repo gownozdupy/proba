@@ -1,0 +1,3 @@
+﻿  Sudoku.cpp
+c:\users\123587\downloads\zadaniesem2024prusakow\sudoku\sudoku\sudoku.cpp(127): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+  Project1.vcxproj -> C:\Users\123587\source\repos\Project1\Debug\Project1.exe

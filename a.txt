@@ -1,0 +1,11 @@
+03-06-2024, 15:41:33, gracz (a) rozpocz¹³ grê - wybrany wymiar: 4x4, poziom trudnoœci: 2, tryb: gracz
+03-06-2024, 15:41:35, gracz (a) wprowadzi³ niepoprawn¹ odpowiedŸ (3) w pole (A1). Zosta³y mu 4 ¿ycia.
+03-06-2024, 15:41:39, gracz (a) wprowadzi³ poprawn¹ odpowiedŸ (3) w pole (A2). Zosta³y mu 4 ¿ycia.
+03-06-2024, 15:41:42, gracz (a) wprowadzi³ niepoprawn¹ odpowiedŸ (3) w pole (A4). Zosta³y mu 3 ¿ycia.
+03-06-2024, 15:41:44, gracz (a) wprowadzi³ poprawn¹ odpowiedŸ (1) w pole (A3). Zosta³y mu 3 ¿ycia.
+03-06-2024, 15:41:48, gracz (a) podda³ siê. Zosta³y mu 3 ¿ycia.
+03-06-2024, 15:41:51, gracz (a) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 15:41:56, komputer skonczyl rozwiazywac sudoku. Wygra³. Zosta³y mu 4 ¿ycia.
+03-06-2024, 15:41:59, gracz (a) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 1, tryb: gracz
+03-06-2024, 15:42:07, gracz (a) podda³ siê. Zosta³o mu 5 ¿yæ.
+03-06-2024, 15:42:09, gracz (a) zakoñczy³ program.

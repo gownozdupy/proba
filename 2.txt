@@ -1,0 +1,115 @@
+03-06-2024, 13:48:27, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: gracz
+03-06-2024, 13:48:29, gracz (2) wprowadzi³ niepoprawn¹ odpowiedŸ (3) w pole (A2)
+03-06-2024, 13:48:31, gracz (2) wprowadzi³ poprawn¹ odpowiedŸ (1) w pole (A3)
+03-06-2024, 13:48:48, gracz (2) podda³ siê.
+03-06-2024, 13:48:48, gracz (2) podda³ siê.
+03-06-2024, 13:48:52, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 13:49:00, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 3, tryb: komputer
+03-06-2024, 13:49:08, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 13:49:11, gracz (2) zakoñczy³ program.
+03-06-2024, 13:50:24, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 13:50:28, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 13:50:39, gracz (2) zakoñczy³ program.
+03-06-2024, 13:52:22, gracz (2) zakoñczy³ program.
+03-06-2024, 13:55:58, gracz (2) rozpocz¹³ grê - wybrany wymiar: 4x4, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 13:55:59, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 13:56:03, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 3, tryb: komputer
+03-06-2024, 13:57:28, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 13:58:33, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 13:58:38, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 13:58:40, gracz (2) zakoñczy³ program.
+03-06-2024, 13:59:11, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 13:59:28, gracz (2) zakoñczy³ program.
+03-06-2024, 13:59:39, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 13:59:43, gracz (2) zakoñczy³ program.
+03-06-2024, 13:59:52, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:00:23, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:00:42, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 14:01:03, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:01:10, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 14:01:13, gracz (2) zakoñczy³ program.
+03-06-2024, 14:02:08, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:02:16, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 14:02:18, gracz (2) zakoñczy³ program.
+03-06-2024, 14:02:50, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:03:20, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:04:03, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:04:06, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:04:12, gracz (2) rozpocz¹³ grê - wybrany wymiar: 16x16, poziom trudnoœci: 1, tryb: komputer
+03-06-2024, 14:05:14, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:06:25, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:06:30, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 14:06:33, gracz (2) zakoñczy³ program.
+03-06-2024, 14:08:01, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:12:09, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:12:14, gracz (2) zakoñczy³ program.
+03-06-2024, 14:14:26, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:14:31, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 14:14:35, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 3, tryb: komputer
+03-06-2024, 14:16:08, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:16:13, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 14:16:16, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 3, tryb: komputer
+03-06-2024, 14:16:39, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 3, tryb: komputer
+03-06-2024, 14:16:47, gracz (2) zakoñczy³ program.
+03-06-2024, 14:19:06, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:19:11, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 14:19:14, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 3, tryb: komputer
+03-06-2024, 14:19:40, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 14:19:45, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 14:19:47, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 3, tryb: komputer
+03-06-2024, 14:19:57, gracz (2) zakoñczy³ program.
+03-06-2024, 14:21:38, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: gracz
+03-06-2024, 14:21:42, gracz (2) podda³ siê.
+03-06-2024, 14:21:46, gracz (2) wprowadzi³ niepoprawn¹ odpowiedŸ (1) w pole (A1)
+03-06-2024, 14:21:51, gracz (2) wprowadzi³ poprawn¹ odpowiedŸ (3) w pole (A1)
+03-06-2024, 14:21:54, gracz (2) podda³ siê.
+03-06-2024, 14:21:57, gracz (2) podda³ siê.
+03-06-2024, 14:21:57, gracz (2) podda³ siê.
+03-06-2024, 14:22:26, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: gracz
+03-06-2024, 14:22:28, gracz (2) podda³ siê.
+03-06-2024, 14:22:28, gracz (2) podda³ siê.
+03-06-2024, 14:23:16, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: gracz
+03-06-2024, 14:23:19, gracz (2) podda³ siê.
+03-06-2024, 14:23:19, gracz (2) podda³ siê.
+03-06-2024, 14:24:21, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: gracz
+03-06-2024, 14:24:23, gracz (2) podda³ siê.
+03-06-2024, 14:24:28, gracz (2) rozpocz¹³ grê - wybrany wymiar: 4x4, poziom trudnoœci: 2, tryb: gracz
+03-06-2024, 14:24:31, gracz (2) podda³ siê.
+03-06-2024, 14:24:33, gracz (2) podda³ siê.
+03-06-2024, 14:24:38, gracz (2) rozpocz¹³ grê - wybrany wymiar: 16x16, poziom trudnoœci: 1, tryb: komputer
+03-06-2024, 14:24:57, komputer skonczyl rozwiazywac sudoku. Wygra³.
+03-06-2024, 14:25:00, gracz (2) zakoñczy³ program.
+03-06-2024, 15:13:57, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 15:14:02, komputer skonczyl rozwiazywac sudoku. Wygra³.Zostalo mu 2¿yæ.
+03-06-2024, 15:14:07, gracz (2) zakoñczy³ program.
+03-06-2024, 15:30:54, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 15:30:58, komputer skonczyl rozwiazywac sudoku. Wygra³. Zostalo mu 5 ¿yæ.
+03-06-2024, 15:31:02, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 3, tryb: komputer
+03-06-2024, 15:31:05, komputer skonczyl rozwiazywac sudoku. Przegra³. Zosta³y mu 0 ¿ycia.
+03-06-2024, 15:31:11, gracz (2) rozpocz¹³ grê - wybrany wymiar: 4x4, poziom trudnoœci: 1, tryb: gracz
+03-06-2024, 15:31:12, gracz (2) wprowadzi³ niepoprawn¹ odpowiedŸ (1) w pole (A1). Zostalo mu 5 ¿yæ.
+03-06-2024, 15:31:14, gracz (2) wprowadzi³ niepoprawn¹ odpowiedŸ (2) w pole (A3). Zosta³y mu 4 ¿ycia.
+03-06-2024, 15:31:17, gracz (2) wprowadzi³ niepoprawn¹ odpowiedŸ (2) w pole (A1). Zosta³y mu 3 ¿ycia.
+03-06-2024, 15:31:19, gracz (2) wprowadzi³ niepoprawn¹ odpowiedŸ (2) w pole (A3). Zosta³y mu 2 ¿ycia.
+03-06-2024, 15:31:21, gracz (2) wprowadzi³ niepoprawn¹ odpowiedŸ (1) w pole (A3). Zostalo mu 1 ¿ycie.
+03-06-2024, 15:31:21, gracz (2) zakoñczy³ grê, przegra³. Zosta³y mu 0 ¿ycia.
+03-06-2024, 15:31:23, gracz (2) zakoñczy³ program.
+03-06-2024, 15:33:32, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 15:33:37, komputer skonczyl rozwiazywac sudoku. Wygra³. Zosta³y mu 3 ¿ycia.
+03-06-2024, 15:33:39, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 15:33:43, komputer skonczyl rozwiazywac sudoku. Przegra³. Zostalo mu 0 ¿yæ.
+03-06-2024, 15:33:45, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: komputer
+03-06-2024, 15:33:49, komputer skonczyl rozwiazywac sudoku. Przegra³. Zostalo mu 0 ¿yæ.
+03-06-2024, 15:33:50, gracz (2) zakoñczy³ program.
+03-06-2024, 15:43:46, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: gracz
+03-06-2024, 15:43:56, gracz (2) podda³ siê. Zosta³o mu 5 ¿yæ.
+03-06-2024, 15:44:02, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: gracz
+03-06-2024, 15:44:05, gracz (2) podda³ siê. Zosta³o mu 5 ¿yæ.
+03-06-2024, 15:44:08, gracz (2) podda³ siê. Zosta³o mu 5 ¿yæ.
+03-06-2024, 15:44:10, gracz (2) zakoñczy³ program.
+03-06-2024, 15:44:31, gracz (2) rozpocz¹³ grê - wybrany wymiar: 9x9, poziom trudnoœci: 2, tryb: gracz
+03-06-2024, 15:44:51, gracz (2) podda³ siê. Zosta³o mu 5 ¿yæ.
+03-06-2024, 15:44:53, gracz (2) zakoñczy³ program.
+03-06-2024, 15:45:28, gracz (2) rozpocz¹³ grê - wybrany wymiar: 4x4, poziom trudnoœci: 2, tryb: gracz
+03-06-2024, 15:45:32, gracz (2) podda³ siê. Zosta³o mu 5 ¿yæ.
+03-06-2024, 15:45:35, gracz (2) zakoñczy³ program.
